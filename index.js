@@ -67,7 +67,7 @@ function subtractGuest3() {
 	guestScoreEl.textContent = guestScore;
 }
 
-function startGame() {
+function resetScores() {
 	homeScore = 0;
 	homeScoreEl.textContent = homeScore;
 	guestScore = 0;
