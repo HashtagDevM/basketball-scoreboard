@@ -19,13 +19,14 @@ body {
 }
 
 #reset {
+	position: absolute;
+	margin: -450px auto 0;
 	background-color: #f43f5e;
 	color: #e0f2fe;
 	font-size: 20px;
 	font-weight: 700;
 	text-align: center;
 	width: 200px;
-	margin: 0;
 	border: none;
 	border-radius: 6px;
 	cursor: pointer;
